@@ -1,41 +1,24 @@
-
 # Analyse de données avec Python, SQL et Excel
 
-Bienvenue dans ce projet d’apprentissage de l’analyse de données avec Python, SQL et Excel.  
-Ce dépôt contient des exercices pratiques réalisés dans le cadre d’un programme intensif d’un mois pour développer des compétences professionnelles en science des données.
+Ce projet est réalisé par **Paola Plancarte** dans le cadre de sa formation en analyse de données.  
+Il comprend des exercices pratiques et des mini-projets utilisant **Python**, **SQL** et **Excel**, organisés par journées d'apprentissage.
 
-## 🎯 Objectif du projet
+## 🗓️ Plan de travail
 
-Apprendre les bases du langage Python, les structures de données, les requêtes SQL, ainsi que l’analyse de données dans Excel.  
-L’objectif est de simuler des tâches réelles qu’un·e analyste de données pourrait effectuer en entreprise.
+### 📘 Jour 1 — Bases de Python
+- Variables, types, calculs
+- Instructions `print()` et manipulation de chaînes
+- Chargement et filtrage d’un fichier CSV
+- Outils : Google Colab, Pandas
 
-## 📁 Contenu actuel
+📁 Fichier : `jour1_python_base.ipynb`
 
-- `jour1_python_base.ipynb` : Notebook contenant des exercices d’introduction à Python (variables, opérations, fonctions de base).
-- `produits_donnees.csv` : Fichier de données simulées sur des produits pour pratiquer les calculs.
+### 📘 Jour 2 — Listes, boucles et dictionnaires *(à venir)*
 
-## 🧰 Technologies utilisées
+...
 
-- Python 3
-- Jupyter Notebook (Google Colab)
-- Pandas
-- Fichiers CSV
-- Excel
+## 🎯 Objectif
+Maîtriser les compétences de base en analyse de données pour les appliquer dans des projets réels d'entreprise.
 
-## 🚀 Comment exécuter ce projet
-
-1. Télécharger les fichiers ou ouvrir `jour1_python_base.ipynb` dans [Google Colab](https://colab.research.google.com/).
-2. Importer également `produits_donnees.csv` dans le même environnement Colab.
-3. Exécuter les cellules une par une en lisant les instructions.
-
-## 📌 Prochaines étapes
-
-- `Jour 2` : Listes, dictionnaires et boucles en Python
-- `Jour 3` : Nettoyage de données avec pandas
-- `Projet 1` : Analyse des ventes
-- `Projet 2` : Tableaux croisés dynamiques avec Excel et SQL
-
----
-
-Merci de visiter ce dépôt !  
-Pour toute question ou collaboration, n’hésitez pas à me contacter.
+## 🔗 Auteur
+GitHub : [PaolaPlancarte](https://github.com/PaolaPlancarte)

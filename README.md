@@ -1,24 +1,29 @@
-# Analyse de données avec Python, SQL et Excel
+# Portefeuille de formation – Analyse de données avec Python, SQL et Excel
 
-Ce projet est réalisé par **Paola Plancarte** dans le cadre de sa formation en analyse de données.  
-Il comprend des exercices pratiques et des mini-projets utilisant **Python**, **SQL** et **Excel**, organisés par journées d'apprentissage.
+Bienvenue dans mon projet personnel de formation intensive en analyse de données.  
+Ce dépôt présente ma progression jour par jour à travers des exercices concrets et des projets réels.
 
-## 🗓️ Plan de travail
+## 🧠 Compétences développées
+- Analyse de données avec **Python** (Pandas, Numpy)
+- Manipulation de données avec **SQL**
+- Visualisation et analyse avec **Excel**
+- Concepts de base en **intelligence artificielle** (préparation à la certification AI-900)
 
-### 📘 Jour 1 — Bases de Python
-- Variables, types, calculs
-- Instructions `print()` et manipulation de chaînes
-- Chargement et filtrage d’un fichier CSV
-- Outils : Google Colab, Pandas
+## 📅 Structure du dépôt
 
-📁 Fichier : `jour1_python_base.ipynb`
+| Dossier     | Contenu principal                          |
+|-------------|---------------------------------------------|
+| `jour1/`    | Bases de Python, opérations simples, CSV    |
+| `jour2/`    | Listes, boucles, dictionnaires              |
+| `jour3/`    | *(à venir)* Analyse exploratoire de données |
+| `projets/`  | Projets réels (ventes, prévisions, etc.)    |
 
-### 📘 Jour 2 — Listes, boucles et dictionnaires *(à venir)*
+## 📈 Objectif
+Créer un portfolio professionnel d’analyse de données en 4 semaines, combinant théorie et pratique, pour démontrer mes compétences aux recruteurs et accélérer ma carrière dans le domaine.
 
-...
+---
 
-## 🎯 Objectif
-Maîtriser les compétences de base en analyse de données pour les appliquer dans des projets réels d'entreprise.
+### 🔗 Suivi
+- LinkedIn : [VotreProfilIci](https://linkedin.com)
+- GitHub : [PaolaPlancarte](https://github.com/PaolaPlancarte)
 
-## 🔗 Auteur
-GitHub : [PaolaPlancarte](https://github.com/PaolaPlancarte)
